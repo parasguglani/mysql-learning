@@ -22,7 +22,8 @@ This repository contains my MySQL learning journey from beginner to advanced.
 - Created table
 - Inserted data
 - Show data
-- Where and Greater than statements
+- Conditional and Logcal Operators
+- Like Statements (% and _)
 ## Challenge 1 Movie database and show particular columns from the created table
 ## Challenge 2 Create Employee database and write queries for below
 
