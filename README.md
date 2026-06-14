@@ -22,7 +22,16 @@ This repository contains my MySQL learning journey from beginner to advanced.
 - Created table
 - Inserted data
 - Show data
+- Where and Greater than statements
 ## Challenge 1 Movie database and show particular columns from the created table
+## Challenge 2 Create Employee database and write queries for below
+
+Show all employees.
+Show only emp_name.
+Show emp_name and salary.
+Show employees whose salary is greater than 50000.
+Show employees from 'Delhi'.
+Show employees sorted by salary (highest first).
 
 ### Projects
 - Student Management System
