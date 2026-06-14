@@ -21,7 +21,8 @@ This repository contains my MySQL learning journey from beginner to advanced.
 - Created database
 - Created table
 - Inserted data
-- Retrieved records
+- Show data
+## Challenge 1 Movie database and show particular columns from the created table
 
 ### Projects
 - Student Management System
