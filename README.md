@@ -22,7 +22,7 @@ This repository contains my MySQL learning journey from beginner to advanced.
 - Created table
 - Inserted data
 - Show data
-- Conditional and Logcal Operators
+- Conditional and Logcal Operators ( Where, AND, OR, OR NOT, >=,>=,<,>,=, !=)
 - Like Statements (% and _)
 ## Challenge 1 Movie database and show particular columns from the created table
 ## Challenge 2 Create Employee database and write queries for below
