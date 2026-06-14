@@ -10,3 +10,7 @@ select * from movie;  /* show full table*/
 select Movie_name from movie; /* show only movie_name table*/
 select hero, rating from movie; /* show only hero and rating table*/
 select Movie_name, release_year from movie; /* show only Movie_name and release year table*/
+
+--Where and Greater statements---
+SELECT * FROM movie WHERE Hero = 'yash';
+select * from movie where rating >6 ;
