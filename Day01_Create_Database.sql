@@ -15,3 +15,6 @@ select * from empdata;
 
 insert into mobile values (6, 'nothing', 'phone 2a' , 31999, 8),
 (7, 'oneplus', 'CE6', 28999, 8);
+
+/* selecting single column in the my sql*/
+select brand from mobile;
